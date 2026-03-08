@@ -1,18 +1,18 @@
 <br clear="both">
 
 <div align="center">
-  <img height="205" src="https://w0.peakpx.com/wallpaper/937/779/HD-wallpaper-the-batman-2022-red-the-batman-batman-superheroes-movies-2022-movies.jpg"  />
+  <img height="177" src="https://w0.peakpx.com/wallpaper/937/779/HD-wallpaper-the-batman-2022-red-the-batman-batman-superheroes-movies-2022-movies.jpg"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Reffa and I'm a Programmer</h1>
+<h1 align="center">Hi 👋! My name is Reffa and, idk🤔</h1>
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV1ZGxwaXRicXdudTZzNW1rbzE2MGl2M2k3YnRvcHdzaTV2NzVkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2tzon8OCC7BqmY/giphy.gif"  />
+<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV1ZGxwaXRicXdudTZzNW1rbzE2MGl2M2k3YnRvcHdzaTV2NzVkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2tzon8OCC7BqmY/giphy.gif"  />
 
 ###
 
@@ -50,15 +50,15 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Groxzzl/Groxzzl/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://open.spotify.com/user/inireffa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=inireffa&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=inireffa&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
