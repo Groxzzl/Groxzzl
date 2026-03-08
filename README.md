@@ -29,6 +29,7 @@
 - I am a **student learning programming**.
 - Interested in **software development, coding, and technology**.
 - Currently learning **C++, Python, and JavaScript**.
+- Linux enthusiast, exploring the world of open-source software and command-line tools.
 
 <details>
 <summary><b>What I'm Learning (click)</b></summary>
@@ -37,6 +38,7 @@
 - Problem solving
 - Building small coding projects
 - Learning new technologies
+- Exploring Linux and open-source software
 
 </details>
 
@@ -48,6 +50,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
+</p>
+
+## 💿 My Operating System
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="48" height="48"/>
 </p>
 
 ---
