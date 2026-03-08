@@ -70,9 +70,18 @@
 ---
 
 ## 📫 Contact
+<div align="center">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=inireffa@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="36" alt="gmail logo"  />
+    </a>
 
-- Discord: `inireffa15`
-- GitHub: https://github.com/Groxzzl
+  <a href="https://discord.com/users/779323472458547220" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="36" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/nlw14" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="36" alt="telegram logo"  />
+  </a>
+</div>
 
 <!-- ===================== FOOTER (Animated) ===================== -->
 <p align="center">
