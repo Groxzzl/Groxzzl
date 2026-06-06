@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Groxzzl&show_icons=true&theme=react&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groxzzl&layout=compact&theme=react&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Groxzzl&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Groxzzl&theme=react" />
 </p>
 
 <p align="center">
