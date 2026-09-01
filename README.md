@@ -113,8 +113,10 @@ when i'm not coding, i'm probably reading kernel patches or arguing about init s
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"> stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Groxzzl&show_icons=true&theme=dark&bg_color=0d1117&border_color=22c55e&icon_color=22c55e&title_color=ffffff&text_color=c9d1d9&hide_border=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Groxzzl&theme=dark&background=0d1117&ring=22c55e&fire=0ea5e9&currStreakLabel=22c55e&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="48%" />
+<a href="https://github.com/Groxzzl"><img src="https://img.shields.io/github/followers/Groxzzl?label=followers&style=flat-square&color=22c55e" /></a>
+<a href="https://github.com/Groxzzl?tab=repositories"><img src="https://img.shields.io/github/repos/Groxzzl?style=flat-square&color=0ea5e9" /></a>
+<a href="https://github.com/Groxzzl"><img src="https://img.shields.io/github/stars/Groxzzl?style=flat-square&color=fbbf24" /></a>
+<a href="https://github.com/Groxzzl"><img src="https://komarev.com/ghpvc/?username=Groxzzl&label=profile+views&style=flat-square&color=8b5cf6" /></a>
 </p>
 
 <br>
