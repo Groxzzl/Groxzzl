@@ -1,103 +1,138 @@
-<!-- ===================== HERO (Animated Header) ===================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=240&section=header&text=Reffa&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Student%20%7C%20Learning%20Programming%20%7C%20Future%20Developer&descAlignY=58"
-  />
-</p>
+<div align="center">
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Hi+I'm+Reffa;Student+Programmer;Linux+Enthusiast;Learning+C%2B%2B+%2F+Python+%2F+JavaScript;Future+Software+Developer"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0ea5e9,100:8b5cf6&height=220&section=header&text=Groxzzl&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=breaking%20things%20since%20forever&descAlignY=56&descSize=16&animation=fadeIn&theme=transparent" />
 
-<!-- ===================== BADGES ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Groxzzl&label=PROFILE+VIEWS&style=for-the-badge&color=22c55e" />
-  <img src="https://img.shields.io/github/followers/Groxzzl?style=for-the-badge&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/Groxzzl?style=for-the-badge&color=111827" />
-</p>
+</div>
 
-<!-- ===================== ABOUT ===================== -->
-## 👋 About Me
+<br>
 
-- My name is **Reffa**.
-- I am a **student learning programming**.
-- Interested in **software development, coding, and technology**.
-- Currently learning **C++, Python, and JavaScript**.
-- Linux enthusiast, exploring the world of open-source software and command-line tools.
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<details>
-<summary><b>What I'm Learning (click)</b></summary>
+### hi, i'm reffa
 
-- Programming fundamentals
-- Problem solving
-- Building small coding projects
-- Learning new technologies
-- Exploring Linux and open-source software
+i break things on purpose so i can learn how they work.
 
-</details>
+right now i'm deep into **C++**, pointer arithmetic, memory management, the stuff that makes you question your life choices. also writing **Python** when i need things done fast, and **JavaScript** when i'm feeling dangerous.
+
+i live on the command line. vim user. distro-hopper. i've bricked more systems than most people have installed.
+
+when i'm not coding, i'm probably reading kernel patches or arguing about init systems.
+
+</td>
+<td width="5%" align="center"></td>
+<td width="40%" valign="top">
+
+<img src="https://komarev.com/ghpvc/?username=Groxzzl&label=people%20who%20saw%20this&color=22c55e&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 💻 Programming Languages
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="28"> what i mess with
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
+</a>
+<br>
+<b>Python</b>
+<br>
+<sub>automation + scripts</sub>
+</td>
+<td align="center" width="120">
+<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+</a>
+<br>
+<b>C++</b>
+<br>
+<sub>the real deal</sub>
+</td>
+<td align="center" width="120">
+<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
+</a>
+<br>
+<b>JavaScript</b>
+<br>
+<sub>web stuff</sub>
+</td>
+<td align="center" width="120">
+<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" />
+</a>
+<br>
+<b>Bash</b>
+<br>
+<sub>daily driver</sub>
+</td>
+<td align="center" width="120">
+<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" />
+</a>
+<br>
+<b>Linux</b>
+<br>
+<sub>my whole personality</sub>
+</td>
+</tr>
+</table>
 
-## 💿 My Operating System
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="48" height="48"/>
-</p>
+<br>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Groxzzl&theme=react" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Groxzzl&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Groxzzl&theme=react&hide_border=true" />
-</p>
-
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="28"> github graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Groxzzl/Groxzzl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Groxzzl/Groxzzl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Groxzzl/Groxzzl/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Groxzzl/Groxzzl/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br>
 
 ---
 
-## 📫 Contact
-<div align="center">
-    <a href="mailto:inireffa@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="36" alt="gmail logo"  />
-    </a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"> stats
 
-  <a href="https://discord.com/users/779323472458547220" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="36" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/nlw14" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="36" alt="telegram logo"  />
-  </a>
-</div>
-
-<!-- ===================== FOOTER (Animated) ===================== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=140&section=footer&animation=twinkling"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=Groxzzl&show_icons=true&theme=dark&bg_color=0d1117&border_color=22c55e&icon_color=22c55e&title_color=ffffff&text_color=c9d1d9&hide_border=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Groxzzl&theme=dark&background=0d1117&ring=22c55e&fire=0ea5e9&currStreakLabel=22c55e&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="48%" />
 </p>
+
+<br>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" width="28"> find me
+
+<p align="center">
+
+<a href="mailto:inireffa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/779323472458547220"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://t.me/nlw14"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+</p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0ea5e9,100:22c55e&height=120&section=footer" />
